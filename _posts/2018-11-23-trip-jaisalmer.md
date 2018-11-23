@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [Planning: Trip To Jaisalmer](https://en.wikipedia.org/wiki/Jaisalmer)
+title: Planning: Trip To Jaisalmer
 ---
 ### Dates `30Nov2018 to 03Dec2018 | Travel itinerary` 
 ***
