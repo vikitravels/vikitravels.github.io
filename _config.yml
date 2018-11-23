@@ -9,7 +9,7 @@ title:               VikiTravels
 tagline:             '| My Travel Tales ..'
 description:         'A Collection of my Travel Tales and itineraries' 
 url:                 https://vikitravels.github.io
-baseurl:             /
+baseurl:             .
 paginate:            5
 
 # About/contact
