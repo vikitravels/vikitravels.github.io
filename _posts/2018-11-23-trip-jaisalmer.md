@@ -1,10 +1,7 @@
 ---
 layout: post
-title: Example content
+title: [Planning: Trip To Jaisalmer](https://en.wikipedia.org/wiki/Jaisalmer)
 ---
-
-# [Planning: Trip To Jaisalmer](https://en.wikipedia.org/wiki/Jaisalmer)
-
 ### Dates `30Nov2018 to 03Dec2018 | Travel itinerary` 
 ***
 #### `[Friday, 30 Nov 2018]`
