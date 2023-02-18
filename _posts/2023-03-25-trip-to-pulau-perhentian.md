@@ -19,7 +19,10 @@ Kuala Lumpur   🚗  Kula Besut
 ```  
 
 * Breakfast 🍵🍔🍟 at [*Sri Paandi*](https://goo.gl/maps/XvvFKkwRMxceuf1F8)
-* Pack McDonalds/Subways for long drive as food may be difficult to find due to varying timings during Ramadan Month.
+
+> Pack McDonalds/Subways for long drive as food may be difficult to find due to varying timings during Ramadan Month.
+{: .prompt-tip }
+
 * Drive to and stay at [*airbnb*](https://www.airbnb.com/rooms/24865146) 🏨 [*Villa DSelasih(B) Grd.Flr @ UMT, UniSZA Terengganu*](https://goo.gl/maps/e1Gf8rRbpZ2JtvRLA) 452 KMs
 
 *Resturants Nearby* 

@@ -7,7 +7,7 @@
 !.commitlintrc.json
 !.versionrc.json
 !.stylelintrc.json
-
+*.creds
 # bundler cache
 _site
 vendor
