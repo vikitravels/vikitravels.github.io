@@ -1,4 +1,4 @@
-##### [<-- Back to Blog](_posts/2018-06-15-trip-to-thailand.md)
+##### [<-- Back to Blog](2018-06-15-trip-to-thailand.md)
 
 ### Sukhumvit, Bangkok
 

@@ -40,7 +40,7 @@ Dinner and Street trolling before a good night sleep.
 #### `[Sat, 09 Jun 2018]`
 
 * Getup Early, Breakfast Buffet
-* Go for [Halfday Bangkok City Tour](../refs/halfday_bangkok_city_tour.md)
+* Go for [Halfday Bangkok City Tour](halfday_bangkok_city_tour.md)
   
 ``` 
 09Jun2018 | Thai Lion Mentari Flight 760
@@ -57,7 +57,7 @@ Head to Patong Beach and have drinks and dinner.
 Beakfast Buffet 
 First Half  : Patong Beach, Other beaches (Karon or Kata or Kamla | depends on comfort)
 
-* [Thailand Restaurants in Focus](../refs/thailand_restaurants_in_focus.md)
+* [Thailand Restaurants in Focus](thailand_restaurants_in_focus.md)
 
 Second Half : Bunglow Market Stret  
 Evening     : Rooftop pool, drinks and dinner 
