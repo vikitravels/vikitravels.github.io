@@ -27,7 +27,7 @@ Kuala Lumpur   🚗  Kula Besut
 
 *Resturants Nearby* 
 
-1. [McDonald's & McCafé Gong Badak Drive Thru](https://maps.app.goo.gl/xUkGvvQUgFh4c4je9) 1.8 KMs drive
+1. [McDonald's & McCafé Gong Badak Drive Thru](https://goo.gl/maps/uvohxXvEQba7xVBs7) 1.8 KMs drive
 2. [Anwaar Al-Yaman](https://goo.gl/maps/qp8GfdrqtnDkasMX6) 2.3 KMs drive. *Good option for dinner*
 3. [Restoran Aroma Arab Global](https://goo.gl/maps/9p6LcyL963hZWYq17) 13 KMs drive (we arrive before as it is towards KL) *Can be tried while returning*
 4. [Ali Spices - Nasi kandar & Briyani Hyderabad](https://goo.gl/maps/oSRXnKdEAGWBtVbv5) 13 KMs drive (we arrive before as it is towards KL) *Can be tried while returning*
