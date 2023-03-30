@@ -76,7 +76,12 @@ RM10/Adult and RM5/Child (foreigner) RM3/Adult and RM2/Child (Malaysian) and RM3
 :-------------------------:|:-------------------------:
 ![](sg-pandan-wf.jpeg)  |  ![](kids-near-waterfall-bridge.jpeg)
 
+## slider 1
+
+settings for this slider taken from [Ideal-Image-Slider-JS#getting-started](https://github.com/Codeinwp/Ideal-Image-Slider-JS#getting-started)
+
 {% include slider.html selector="slider1" %}
+
 
 * Drive to Beach 🏖️ [*Pantai Teluk Cempedak*](https://goo.gl/maps/LfxFEv7M3ogw9fzWA) 50 KMs
 * Dinner at nearby resturant or order food
