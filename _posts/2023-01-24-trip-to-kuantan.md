@@ -6,6 +6,8 @@ categories: [travels, Malaysia]
 tags: [roadtrips,ProtonSaga,travels]
 mermaid: true
 img_path: /images/travel/kuantan/
+image_sliders:
+  - slider1
 ---
 
 ### Dates 21-JAN-2023 to 23-JAN-2023, CNY holidays
@@ -74,6 +76,7 @@ RM10/Adult and RM5/Child (foreigner) RM3/Adult and RM2/Child (Malaysian) and RM3
 :-------------------------:|:-------------------------:
 ![](sg-pandan-wf.jpeg)  |  ![](kids-near-waterfall-bridge.jpeg)
 
+{% include slider.html selector="slider1" %}
 
 * Drive to Beach 🏖️ [*Pantai Teluk Cempedak*](https://goo.gl/maps/LfxFEv7M3ogw9fzWA) 50 KMs
 * Dinner at nearby resturant or order food
