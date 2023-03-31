@@ -76,14 +76,6 @@ RM10/Adult and RM5/Child (foreigner) RM3/Adult and RM2/Child (Malaysian) and RM3
 :-------------------------:|:-------------------------:
 ![](sg-pandan-wf.jpeg)  |  ![](kids-near-waterfall-bridge.jpeg)
 
-## slider 1
-
-{% include slider.html selector="slider1" %}
-
-{% include slider_scripts.html %}
-
-{% include slider_styles.html %}
-
 * Drive to Beach 🏖️ [*Pantai Teluk Cempedak*](https://goo.gl/maps/LfxFEv7M3ogw9fzWA) 50 KMs
 * Dinner at nearby resturant or order food
 * Drinks and Dine with Paul John at Villa

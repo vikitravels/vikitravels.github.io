@@ -5,7 +5,9 @@ date: 2023-02-11 11:33:00 +0800
 categories: [travels, Malaysia]
 tags: [roadtrips,ProtonSaga,travels]
 mermaid: true
-img_path: /images/travel/kuantan/
+img_path: /images/travel/perhentian/
+image_sliders:
+  - perhentian
 ---
 
 ### Dates 24-MAR-2023 to 27-MAR-2023
@@ -24,6 +26,8 @@ Kuala Lumpur   🚗  Kula Besut
 {: .prompt-tip }
 
 * Drive to and stay at [*airbnb*](https://www.airbnb.com/rooms/24865146) 🏨 [*Villa DSelasih(B) Grd.Flr @ UMT, UniSZA Terengganu*](https://goo.gl/maps/e1Gf8rRbpZ2JtvRLA) 452 KMs
+
+* We stopped by [*Pantai Batu Pelanduk*](https://www.google.com/maps/place/Pantai+Batu+Pelanduk/@4.8276183,103.317537,12z/data=!4m10!1m3!2m2!1sAttractions!6e1!3m5!1s0x31c8046f6088ee2f:0xb5088d53f41668e2!8m2!3d4.8276245!4d103.4171231!15sCgtBdHRyYWN0aW9uc5IBEnRvdXJpc3RfYXR0cmFjdGlvbg) 
 
 *Resturants Nearby* 
 
@@ -46,11 +50,19 @@ Kuala Lumpur   🚗  Kula Besut
 * See if time allows for jungle trek to [Adam and Eve beach](https://goo.gl/maps/hLyzYtTzPFKt27X88) *aprox an hour walk*
 * Walk back to Long beach for fireshow and 🍜🍕🍻🍷
 
+{% include slider.html selector="perhentian" %}
+
+{% include slider_scripts.html %}
+
+{% include slider_styles.html %}
+
 
 #### Sun, 26 Mar 2023
 
 * Go on snorkelling trip.
-* Go for skuba dive. 
+* Go for skuba dive. (for next time)
+
+{% include embed/youtube.html id='fo2PJeQSHO4' %}
 
 #### Mon, 27 Mar 2023
 
