@@ -20,6 +20,9 @@ Kuala Lumpur KUL   ✈  Da Nang **
 xx:xx AM               xx:xx AM 
 ```  
 
+* Reach Da Nang and checkin to hotel
+* City and Beaches
+
 *Resturants Nearby* 
 
 1. [McDonald's & McCafé Gong Badak Drive Thru](https://goo.gl/maps/uvohxXvEQba7xVBs7) 1.8 KMs drive
