@@ -17,7 +17,7 @@ image_sliders:
 ```
 AirAsia Flight ###
 Kuala Lumpur KUL   ✈  Da Nang **
-xx:xx AM               xx:xx AM 
+09:00 AM              10:30 AM 
 ```  
 
 * Reach Da Nang and checkin to hotel
