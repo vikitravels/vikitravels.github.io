@@ -3,7 +3,7 @@ title: Trip to Vietnam (7 Days travel itinerary)
 author: hclpandv
 date: 2023-08-08 11:33:00 +0800
 categories: [travels, Vietnam]
-tags: [travels,flying,AirAsia]
+tags: [travels,flying,VietnamAirlines]
 mermaid: true
 img_path: /images/travel/perhentian/
 image_sliders:
@@ -68,5 +68,5 @@ VIETNAM AIRLINES
 VN 117 | Da Nang DAD            ✈  Ho Chi Minh City SGN
          10:40                     12:25 
 VN 675 | Ho Chi Minh City SGN   ✈  Kuala Lumpur HAN
-         16:00                     18:15 
+         14:45                     18:05 
 ```  
