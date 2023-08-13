@@ -23,7 +23,7 @@ VN 216 | Ho Chi Minh City SGN   ✈  Hanoi HAN
 ```  
 
 * Reach Hanoi and checkin to hotel or Bnb.
-* Home packed `Alu Paratha\Roles\Sandwitches` in dinner. 
+* Home packed `Alu Paratha/Roles/Sandwitches` in dinner. 
 
 #### Sun, 01 Oct 2023
 
@@ -40,8 +40,10 @@ VIETNAM AIRLINES
 VN 6093 | Hanoi HAN   ✈  Da Nang DAD
           17:20          18:40 
 ```  
-* Reach Da Nanag and check-in to hotel.
-* Dinner at Indian restorant and stay overnight at hotel.
+
+* Grab from airport and reach Da Nanag and check-in to hotel [*Golden Line Hotel Da Nang*](https://goo.gl/maps/PMjJcsjY6RYRLEih6) *5.7 Kms*
+* Dinner at Indian restorant [*Gujarat Indian Restaurant*](https://goo.gl/maps/ZPTsbwNNXtj9mcMBA) *450Mtr* 2 Mins walk 
+* Walk at [*Mỹ Khê Beach*](https://goo.gl/maps/Enbgd635NcJphMXz5) after dinner *550Mtr* 5 Mins walk 
 
 #### Tue, 03 Oct 2023
 
