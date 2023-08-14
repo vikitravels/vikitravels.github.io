@@ -24,7 +24,7 @@ VN 216 | Ho Chi Minh City SGN   ✈  Hanoi HAN
 
 * Grab from [*Noi Bai International Airport*](https://goo.gl/maps/hPsb9RHCjMosBH6T7) and checkin to hotel or Bnb in Old Quarters *30Kms aprox 15USD* 
 
-> Pack McDonalds/Subways for long drive as food may be difficult to find due to varying timings during Ramadan Month.
+> Many Airlines including Vietnam Airlines runs shuttle bus directly to Hanoi Old Quarters for a price of 1.75USD per pax
 {: .prompt-tip }
 
 
@@ -32,10 +32,10 @@ VN 216 | Ho Chi Minh City SGN   ✈  Hanoi HAN
 
 #### Sun, 01 Oct 2023
 
-* Breakfast at BnB (Bread Omlette on the house!!)
-* Day Cruise to Halong Bay with Lunch
+* Breakfast 🍵🍔 at BnB (Bread Omlette on the house!!)
+* Day Cruise 🚤 to Halong Bay with Lunch
 * Dinner at resturant [*Banh Mi 25*](https://goo.gl/maps/qCLDE25yKiT1dfC27) (Best Banh Mi in town)
-* Strol the town and try more street food and coffee 
+* Strol the town and try more street food and coffee etc 🍜🍕🍻🍷
 
 #### Mon, 02 Oct 2023
 
