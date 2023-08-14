@@ -22,18 +22,21 @@ VN 216 | Ho Chi Minh City SGN   ✈  Hanoi HAN
          16:00                     18:15 
 ```  
 
-* Reach Hanoi and checkin to hotel or Bnb.
+* Grab from [*Noi Bai International Airport*](https://goo.gl/maps/hPsb9RHCjMosBH6T7) and checkin to hotel or Bnb in Old Quarters *30Kms aprox 15USD* 
 * Home packed `Alu Paratha/Roles/Sandwitches` in dinner. 
 
 #### Sun, 01 Oct 2023
 
-* Breakfast at BnB 
-* Day Cruise to Halong Bay with Lunch.
-* Dinner out in resturant 
+* Breakfast at BnB (Bread Omlette on the house!!)
+* Day Cruise to Halong Bay with Lunch
+* Dinner at resturant [*Banh Mi 25*](https://goo.gl/maps/qCLDE25yKiT1dfC27) (Best Banh Mi in town)
+* Strol the town and try more street food and coffee 
 
 #### Mon, 02 Oct 2023
 
 * Hanoi shopping with half day City tour 
+* Lunch at [*Grills & Gravy Indian Restaurant*](https://goo.gl/maps/BZUZZPLCreSTVD7Y9) or [*Tadka Indian Restaurant*](https://goo.gl/maps/T8WWcsBFsSbRkzgP7)
+* Grab to [*Noi Bai International Airport*](https://goo.gl/maps/hPsb9RHCjMosBH6T7)
 
 ```
 VIETNAM AIRLINES
@@ -47,7 +50,7 @@ VN 6093 | Hanoi HAN   ✈  Da Nang DAD
 
 #### Tue, 03 Oct 2023
 
-* Hire Scooty and ride to Hoi An Village
+* Hire Scooty and ride to [*Hội An*](https://goo.gl/maps/H29QAew3TqJVqHb1A) Village *23 Kms*
 * 
 * 
 
