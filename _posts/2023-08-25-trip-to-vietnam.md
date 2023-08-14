@@ -35,7 +35,7 @@ VN 216 | Ho Chi Minh City SGN   ✈  Hanoi HAN
 * Breakfast 🍵🍔 at BnB (Bread Omlette on the house!!)
 * Day Cruise 🚤 to Halong Bay with Lunch
 * Dinner at resturant [*Banh Mi 25*](https://goo.gl/maps/qCLDE25yKiT1dfC27) (Best Banh Mi in town)
-* Strol the town and try more street food and coffee etc 🍜🍕🍻🍷
+* Stroll the town and try more street food and coffee etc 🍜🍕🍻🍷
 
 #### Mon, 02 Oct 2023
 
