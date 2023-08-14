@@ -23,6 +23,11 @@ VN 216 | Ho Chi Minh City SGN   ✈  Hanoi HAN
 ```  
 
 * Grab from [*Noi Bai International Airport*](https://goo.gl/maps/hPsb9RHCjMosBH6T7) and checkin to hotel or Bnb in Old Quarters *30Kms aprox 15USD* 
+
+> Pack McDonalds/Subways for long drive as food may be difficult to find due to varying timings during Ramadan Month.
+{: .prompt-tip }
+
+
 * Home packed `Alu Paratha/Roles/Sandwitches` in dinner. 
 
 #### Sun, 01 Oct 2023
