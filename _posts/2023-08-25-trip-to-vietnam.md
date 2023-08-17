@@ -22,7 +22,7 @@ VN 216 | Ho Chi Minh City SGN   ✈  Hanoi HAN
          16:00                     18:15 
 ```  
 
-* Grab from [*Noi Bai International Airport*](https://goo.gl/maps/hPsb9RHCjMosBH6T7) and checkin to hotel or Bnb in Old Quarters *30Kms aprox 15USD* 
+* Grab from [*Noi Bai International Airport*](https://goo.gl/maps/hPsb9RHCjMosBH6T7) and checkin to [*Air Bnb*](https://goo.gl/maps/JTNF3dBdKX6ydqAu6) in Old Quarters *30Kms aprox 15USD* 
 
 > Many Airlines including Vietnam Airlines runs shuttle bus directly to Hanoi Old Quarters for a price of 1.75USD per pax
 {: .prompt-tip }
