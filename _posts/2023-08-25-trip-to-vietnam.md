@@ -50,8 +50,15 @@ VN 6093 | Hanoi HAN   ✈  Da Nang DAD
 ```  
 
 * Grab from airport and reach Da Nanag and check-in to hotel [*Golden Line Hotel Da Nang*](https://goo.gl/maps/PMjJcsjY6RYRLEih6) *5.7 Kms*
-* Dinner at Indian restorant [*Gujarat Indian Restaurant*](https://goo.gl/maps/ZPTsbwNNXtj9mcMBA) *450Mtr* 2 Mins walk 
-* Walk at [*Mỹ Khê Beach*](https://goo.gl/maps/Enbgd635NcJphMXz5) after dinner *550Mtr* 5 Mins walk 
+* Dinner at [KHONG Vegan Kitchen](https://goo.gl/maps/3hbUenfg892DjoVs6) *350Mtrs* 4 mins walk
+* Walk at [*Mỹ Khê Beach*](https://goo.gl/maps/Enbgd635NcJphMXz5) after dinner *550Mtr* 6 Mins walk
+
+*Vegan Resturants Nearby* 
+
+1. [Loving Vegan](https://goo.gl/maps/HUBRi8EAJmkfEEY49) 400 Mtrs *Vast Menu. Singapore Noodles and Chikpeas Curry with rice* Must try 
+2. [Bodhicitta Vegetarian](https://goo.gl/maps/J28QcDFXAPEkaqhG7) 1Km from hotel *Satwik/Buddhista with different seating. Must try*
+3. [CHAY corner in Danang- Vietnamese Dumplings](https://goo.gl/maps/f6VmAF1utsGxBmQH6) 1.5 KMs *Most famous dumplings*
+4. [iVEGAN DANANG](https://goo.gl/maps/9Wi8V8ysRBSxJUxA9) 700Mts *Slightly Expensive*
 
 #### Tue, 03 Oct 2023
 
@@ -66,8 +73,7 @@ VN 6093 | Hanoi HAN   ✈  Da Nang DAD
 #### Wed, 04 Oct 2023
 
 * Ba Na Hills full day tour.
-* 
-* 
+* Dinner at Indian restorant [*Gujarat Indian Restaurant*](https://goo.gl/maps/ZPTsbwNNXtj9mcMBA) *450Mtr* 2 Mins walk  
 
 #### Thu, 05 Oct 2023
 
