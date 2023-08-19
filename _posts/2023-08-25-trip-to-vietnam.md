@@ -56,8 +56,12 @@ VN 6093 | Hanoi HAN   ✈  Da Nang DAD
 #### Tue, 03 Oct 2023
 
 * Hire Scooty and ride to [*Hội An*](https://goo.gl/maps/H29QAew3TqJVqHb1A) Village *23 Kms*
-* 
-* 
+* Breakfast at Beach side resturant with nice view [The Fisherman Vegan Restaurant & Cafe](https://goo.gl/maps/1911JYbBUjiCxjb58) *Upscale/Expensive*
+* Lunch at [quán chay, Tam Quang Minh](https://goo.gl/maps/9wi9m8uPAguHua6d9) which is a very famous local vegan place or at [Babas Kitchen Indian Restaurant](https://goo.gl/maps/59Yis48rL14pBQrR9)
+
+> chay(Pr: Chai) is term for vegetarian/vegan. *quán chay* literly means *Vegan Restaurant*
+{: .prompt-tip }
+
 
 #### Wed, 04 Oct 2023
 
