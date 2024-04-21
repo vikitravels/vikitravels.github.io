@@ -1,5 +1,5 @@
 ---
-title: Trip to Copenhagen (3 Days travel itinerary)
+title: Trip to Copenhagen (2 Days cruise ship travel itinerary)
 author: hclpandv
 date: 2024-04-21 11:33:00 +0800
 categories: [travels, Norway]
