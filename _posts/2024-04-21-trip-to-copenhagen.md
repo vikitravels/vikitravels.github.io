@@ -40,9 +40,12 @@ Oslo        🛳️      Copenhagen
 
 #### Sat, 04 May 2024
 
-* Go on city tour in Copenhagen
-
-
+* Get down from ferry and walk to Nyhavn (1.7 Kms)
+* Take a canal cruise trip. 
+* After your canal cruise, take a short walk over to Amalienborg Palace. (Amalienborg Palace is the winter residence of Denmark’s queen and her family)
+* From Amalienborg Palace, you’ll see the huge oxidized green copper dome of the Marble Church (also known as Frederiks Kirke). Again, just another short walk away you can reach the steps of the Marble Church.
+* Pick up smørrebrød from [Aamans Deli & Takeaway](https://maps.app.goo.gl/tJraZe3N7Z6ZXWyN8) (it’s thought to be some of the best smørrebrød in the city). 
+* Climb The [Round Tower](https://g.co/kgs/b7KdEpz) (Rundetaarn) for great view of the city.
 ```
 Reach DFDS Brygge in Copenhagen
 Copenhagen    🛳️     Oslo 
