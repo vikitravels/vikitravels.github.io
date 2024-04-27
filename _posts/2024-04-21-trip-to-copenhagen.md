@@ -46,6 +46,13 @@ Oslo        🛳️      Copenhagen
 * From Amalienborg Palace, you’ll see the huge oxidized green copper dome of the Marble Church (also known as Frederiks Kirke). Again, just another short walk away you can reach the steps of the Marble Church.
 * Pick up smørrebrød from [Aamans Deli & Takeaway](https://maps.app.goo.gl/tJraZe3N7Z6ZXWyN8) (it’s thought to be some of the best smørrebrød in the city). 
 * Climb The [Round Tower](https://g.co/kgs/b7KdEpz) (Rundetaarn) for great view of the city.
+
+*Must visit eaterties*
+   
+* [Reffen - Copenhagen Street Food](https://g.co/kgs/D1ckrou)
+* [Skt. Peders Bageri/Bakery ](https://g.co/kgs/VrCNqfY)
+
+  
 ```
 Reach DFDS Brygge in Copenhagen
 Copenhagen    🛳️     Oslo 
