@@ -49,8 +49,8 @@ Oslo        🛳️      Copenhagen
 
 *Must visit eaterties*
    
-* [Reffen - Copenhagen Street Food](https://g.co/kgs/D1ckrou)
-* [Skt. Peders Bageri/Bakery ](https://g.co/kgs/VrCNqfY)
+* [Reffen - Copenhagen Street Food](https://maps.app.goo.gl/RQwuWZTrx6sSP7MC6)
+* [Skt. Peders Bageri/Bakery ](https://maps.app.goo.gl/8RiUtymt7myyfY369)
 
   
 ```
