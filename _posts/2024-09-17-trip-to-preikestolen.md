@@ -1,5 +1,5 @@
 ---
-title: Trip to Pulau Perhentian (4 Days travel itinerary)
+title: Trip to Priekestolen (2 Days travel itinerary)
 author: hclpandv
 date: 2024-09-17 11:33:00 +0800
 categories: [travels, Norway]
