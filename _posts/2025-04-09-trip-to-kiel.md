@@ -43,7 +43,9 @@ Tram number 13 to Skillebekk (walking distance approx. 10 minutes).
 * 🎭 Take a 5-minute detour to Kiel Opera House – a beautiful building worth a quick photo stop and a look at its impressive architecture.
 * ⛪ Stroll into Alter Markt (Old Market Square) – check out the old church, relax in the open space, and soak in the historic vibe.
 * 🍻 Can try local brew at [Kieler Brauerei](https://g.co/kgs/x77CKgb) – a traditional brewery offering house-made beers in a cozy setting at the Old Market.  
-* 🍔 Head to Burgererei (Jensendamm 1) – a top-rated spot for a delicious burger lunch with great ambiance.
+* 🍔 Head to Burgererei (Jensendamm 1) – a top-rated spot for a delicious burger lunch with great ambiance followed by [Café Resonanz](https://maps.app.goo.gl/mokM5Uct84KCxcnX8) for desserts. 
+* OPTION_1: [Sadhu (Indian)](https://maps.app.goo.gl/dNgGgsVtrpYqaD2q9) for Indian Lunch
+* OPTION_2: [Sultan Turkish Restaurant ](https://maps.app.goo.gl/8bAJJDU4Ey3xoim26) for Turkish Lunch on pack food for evening.
 
 
 *Must visit eaterties*
