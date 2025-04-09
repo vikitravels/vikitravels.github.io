@@ -32,7 +32,7 @@ Tram number 13 to Skillebekk (walking distance approx. 10 minutes).
 * Check-In cabin and enjoy the cruise with 🍜🍕🍻🍷. 
 * Remember to reserve the *Aqua Land* and *Show Launge* spots in advance at the reception.  
 * Join the various activities during the Easter week for family and kids.  
-* Lunch at *Mama Bella* Pizzaria. (remember to use pre-booked )
+* Lunch at *Mama Bella* Pizzaria. (remember to use pre-booked coupon money)
 
 
 #### Thu, 17 April 2025
@@ -43,9 +43,9 @@ Tram number 13 to Skillebekk (walking distance approx. 10 minutes).
 * 🎭 Take a 5-minute detour to Kiel Opera House – a beautiful building worth a quick photo stop and a look at its impressive architecture.
 * ⛪ Stroll into Alter Markt (Old Market Square) – check out the old church, relax in the open space, and soak in the historic vibe.
 * 🍻 Can try local brew at [Kieler Brauerei](https://g.co/kgs/x77CKgb) – a traditional brewery offering house-made beers in a cozy setting at the Old Market.  
-* 🍔 Head to Burgererei (Jensendamm 1) – a top-rated spot for a delicious burger lunch with great ambiance followed by [Café Resonanz](https://maps.app.goo.gl/mokM5Uct84KCxcnX8) for desserts. 
+* 🍔 Head to [Burgererei](https://g.co/kgs/7NavRY7) a top-rated spot for a delicious burger lunch with great ambiance followed by [Café Resonanz](https://maps.app.goo.gl/mokM5Uct84KCxcnX8) for desserts. 
 * OPTION_1: [Sadhu (Indian)](https://maps.app.goo.gl/dNgGgsVtrpYqaD2q9) for Indian Lunch
-* OPTION_2: [Sultan Turkish Restaurant ](https://maps.app.goo.gl/8bAJJDU4Ey3xoim26) for Turkish Lunch on pack food for evening.
+* OPTION_2: [Sultan Turkish Restaurant ](https://maps.app.goo.gl/8bAJJDU4Ey3xoim26) Or pack food for evening.
 
 
 *Must visit eaterties*
