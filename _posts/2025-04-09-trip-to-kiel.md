@@ -20,7 +20,7 @@ Oslo        🛳️      Keil
 ```  
 
 * Pack food 🍵🍔🍟 for lunch as we leave early to board the ferry.
-* Bus/ from home to [*Colorline Brygge*](https://g.co/kgs/5ae5MsN)
+* Bus/ from home to [*Colorline Ferry terminal*](https://maps.app.goo.gl/4y4niMk4gSeyzwm96)
 
 > Departure from Oslo Bussterminal, platform A13, at 12:00. Via Jernbanetorget (outside the pharmacy). Zone 1 tickets apply. The bus is marked "Color Line".  
 Departure from the Color Line terminal at Hjortnes at 10.20 and 11.00.  
