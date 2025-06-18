@@ -15,9 +15,9 @@ image_sliders:
 #### Fri, 25 Jul 2025
 
 ```
-Oslo        🛳️     Zurich 
-7:00 AM            09:00 AM (next day)   
-```  
+Oslo       ✈  Zurich
+07:00         09:15
+```
 
 > Some tip 
 {: .prompt-tip }
