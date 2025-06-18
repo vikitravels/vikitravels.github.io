@@ -19,7 +19,7 @@ Oslo       ✈  Zurich
 07:00         09:15
 ```
 
-> Some tip 
+> Switzerland uses a unique 3-pronged Type J power socket. While small EU 2-pin plugs may work, ensure you carry a Type J adapter/converter.
 {: .prompt-tip }
 
 
