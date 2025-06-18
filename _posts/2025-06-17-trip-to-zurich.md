@@ -45,6 +45,6 @@ Oslo       ✈  Zurich
 
 * 🚆 Zurich HB → Bern (IC train, about 1 hour)
 * 🚆 Bern → Interlaken Ost (RegioExpress train, about 50 minutes)
-* � Interlaken Ost → Grindelwald Terminal (~35 min)
-* � Gondola to Grindelwald First
+* 🚆 Interlaken Ost → Grindelwald Terminal (~35 min)
+* 🚡 Gondola to Grindelwald First
 * 🚆 Return to Zurich
