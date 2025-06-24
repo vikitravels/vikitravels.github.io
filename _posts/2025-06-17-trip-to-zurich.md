@@ -15,7 +15,7 @@ image_sliders:
 
 #### Fri, 25 Jul 2025 
 
-###### Zurich Local City tour
+##### Zurich Local City tour
 
 ```
 Oslo       ✈  Zurich
