@@ -12,6 +12,9 @@ image_sliders:
 
 ### Dates 25-JUL-2025 to 31-JUL-2025
 
+> Switzerland uses a unique 3-pronged Type J power socket. While small EU 2-pin plugs may work, ensure you carry a Type J adapter/converter.
+{: .prompt-tip }
+
 #### Fri, 25 Jul 2025: Zurich Local City tour
 
 ```
@@ -24,7 +27,7 @@ Oslo       ✈  Zurich
 * Travel to Rhine falls if times and energy allows (3-4 Hours roundtrip)
 * Evening in Old town and zurich lake.
 
-> Switzerland uses a unique 3-pronged Type J power socket. While small EU 2-pin plugs may work, ensure you carry a Type J adapter/converter.
+> Buy [Swiss travel pass](https://www.sbb.ch/en/tickets-offers/tickets/guests-abroad/swiss-family-card.html) for 3 days along with family card. sbb app or website
 {: .prompt-tip }
 
 #### Sat, 26 Jul 2025: Mt. Titlis + Trübsee + Engelberg Village (STP covers everything except Titlis gondola *50% off*)
