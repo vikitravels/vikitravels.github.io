@@ -20,7 +20,7 @@ Oslo       ✈  Zurich
 07:00         09:15
 ```
 
-##### Zurich Local City tour
+**Zurich Local City tour**
 
 * Arrive at airport and buy [ZVV pass](https://www.zvv.ch/en/travelcards-and-tickets/tickets/check-in-day-pass.html) via SBB app.
 * Travel to friend's place via bus (10-15 mins from airport)
@@ -32,8 +32,7 @@ Oslo       ✈  Zurich
 {: .prompt-tip }
 
 #### Sat, 26 Jul 2025
-
-##### Mt. Titlis + Trübsee + Engelberg Village (STP covers everything except Titlis gondola *50% off*)
+**Mt. Titlis + Trübsee + Engelberg Village (STP covers everything except Titlis gondola *50% off*)**
 
 * 🚆 Zurich HB → Lucerne (~50 min)
 * 🚆 Lucerne → Engelberg (~45 min)
@@ -44,8 +43,7 @@ Oslo       ✈  Zurich
 * Check-In to hotel [Amanthos Living](https://maps.app.goo.gl/SwFVRMZ5r5jCfh7i8)
 
 #### Sun, 27 Jul 2025
-
-##### Grindelwald Day Trip (STP fully covers all)
+**Grindelwald Day Trip (STP fully covers all)**
 
 * 🚆 Zurich HB → Bern (IC train, about 1 hour)
 * 🚆 Bern → Interlaken Ost (RegioExpress train, about 50 minutes)
@@ -54,8 +52,7 @@ Oslo       ✈  Zurich
 * 🚆 Return to Zurich
 
 #### Mon, 28 Jul 2025
-
-##### Day trip to Zermatt & Matterhorn Glacier Paradise (STP covers everything exept Glacier paradise cable car *50% off*)
+**Day trip to Zermatt & Matterhorn Glacier Paradise (STP covers everything exept Glacier paradise cable car *50% off*)**
 
 * 🚆 Zurich HB → Visp (~2h 40m)
 * 🚆 Visp → Zermatt (~40 min)
@@ -65,8 +62,7 @@ Oslo       ✈  Zurich
 * 🚆 Zermatt → Visp → Zurich HB (~3h 15m)
 
 #### Optional Day
-
-##### Mount Rigi via Lucerne & Vitznau (STP fully covers all)
+**Mount Rigi via Lucerne & Vitznau (STP fully covers all)**
 
 * 🚆 Zurich HB → Lucerne (~50 min)
 * 🚢 Boat: Lucerne → Vitznau (~1 hr)
