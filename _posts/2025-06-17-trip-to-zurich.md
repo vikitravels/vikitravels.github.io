@@ -10,8 +10,6 @@ image_sliders:
   - perhentian
 ---
 
-### Dates 25-JUL-2025 to 31-JUL-2025
-
 > Switzerland uses a unique 3-pronged Type J power socket. While small EU 2-pin plugs may work, ensure you carry a Type J adapter/converter.
 {: .prompt-tip }
 
