@@ -13,7 +13,9 @@ image_sliders:
 > Switzerland uses a unique 3-pronged Type J power socket. While small EU 2-pin plugs may work, ensure you carry a Type J adapter/converter.
 {: .prompt-tip }
 
-#### Fri, 25 Jul 2025: Zurich Local City tour
+#### Fri, 25 Jul 2025 
+
+###### Zurich Local City tour
 
 ```
 Oslo       ✈  Zurich
