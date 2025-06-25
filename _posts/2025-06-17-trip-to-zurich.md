@@ -48,6 +48,7 @@ Oslo       ✈  Zurich
 1. [Oscar Food Drink](https://maps.app.goo.gl/EkS3jMKECCHT9A576) *400 Mtrs walk for Quick bites falafal*
 2. [Restaurant Urban Spice](https://maps.app.goo.gl/nPS4vfNGDfjLwdFPA) *850 Mtrs walk for Indian meal*
 3. [Brauerei Oerlikon AG](https://maps.app.goo.gl/xR2SwqTxPA9K2Qw67) *1.8 KMs 15 mins public transport for freshly brewed beers *
+4. [Coop Supermarkt Glattbrugg](https://maps.app.goo.gl/3XTKLfhp2iMuE7v79) *450 mtrs super market*
 
 #### Sun, 27 Jul 2025
 *Grindelwald Day Trip (STP fully covers all)*
