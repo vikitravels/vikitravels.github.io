@@ -20,7 +20,7 @@ Oslo       ✈  Zurich
 07:00         09:15
 ```
 
-**Zurich Local City tour**
+*Zurich Local City tour*
 
 * Arrive at airport and buy [ZVV pass](https://www.zvv.ch/en/travelcards-and-tickets/tickets/check-in-day-pass.html) via SBB app.
 * Travel to friend's place via bus (10-15 mins from airport)
