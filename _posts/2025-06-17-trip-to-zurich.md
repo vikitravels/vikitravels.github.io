@@ -27,6 +27,7 @@ Oslo       ✈  Zurich
 * rest until noon.
 * Travel to Rhine falls if times and energy allows (3-4 Hours roundtrip)
 * Evening in Old town and zurich lake.
+* 🍜🍕🍻🍷 Party at friend's place
 
 > Buy [Swiss travel pass](https://www.sbb.ch/en/tickets-offers/tickets/guests-abroad/swiss-family-card.html) for 3 days along with family card. sbb app or website
 {: .prompt-tip }
@@ -41,6 +42,12 @@ Oslo       ✈  Zurich
 * 🚡 On the way down: stop at Trübsee (great lake walk!)
 * 🚡 to Engelberg (explore village)
 * Check-In to hotel [Amanthos Living](https://maps.app.goo.gl/SwFVRMZ5r5jCfh7i8)
+
+*Resturants Nearby* 
+
+1. [Oscar Food Drink](https://maps.app.goo.gl/EkS3jMKECCHT9A576)) *400 Mtrs walk for Quick bites falafal*
+2. [Restaurant Urban Spice](https://maps.app.goo.gl/nPS4vfNGDfjLwdFPA) *850 Mtrs walk for Indian meal*
+3. [Brauerei Oerlikon AG](https://maps.app.goo.gl/xR2SwqTxPA9K2Qw67) *1.8 KMs 15 mins public transport for freshly brewed beers *
 
 #### Sun, 27 Jul 2025
 *Grindelwald Day Trip (STP fully covers all)*
