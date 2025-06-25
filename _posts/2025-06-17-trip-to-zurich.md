@@ -26,7 +26,7 @@ Oslo       ✈  Zurich
 * Purchase [ZVV pass](https://www.zvv.ch/en/travelcards-and-tickets/tickets/check-in-day-pass.html) via SBB app.
 * Take a bus to friend’s place (approx. 10–15 mins)
 * Rest and refresh until noon.
-* Travel to Rhine falls if times and energy allows (3-4 Hours roundtrip)
+* Travel to Rhine falls (Optional, if time and energy permit) *3-4 Hours roundtrip*
 * Explore Zurich’s Old Town (Altstadt).
 * Walk along Lake Zurich and enjoy the evening views.
 * 🍜🍕🍻🍷 House Party.
