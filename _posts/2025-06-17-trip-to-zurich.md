@@ -22,12 +22,14 @@ Oslo       ✈  Zurich
 
 *Zurich Local City tour*
 
-* Arrive at airport and buy [ZVV pass](https://www.zvv.ch/en/travelcards-and-tickets/tickets/check-in-day-pass.html) via SBB app.
-* Travel to friend's place via bus (10-15 mins from airport)
-* rest until noon.
+* Arrive at airport.
+* Purchase [ZVV pass](https://www.zvv.ch/en/travelcards-and-tickets/tickets/check-in-day-pass.html) via SBB app.
+* Take a bus to friend’s place (approx. 10–15 mins)
+* Rest and refresh until noon.
 * Travel to Rhine falls if times and energy allows (3-4 Hours roundtrip)
-* Evening in Old town and zurich lake.
-* 🍜🍕🍻🍷 Party at friend's place
+* Explore Zurich’s Old Town (Altstadt).
+* Walk along Lake Zurich and enjoy the evening views.
+* 🍜🍕🍻🍷 House Party.
 
 > Buy [Swiss travel pass](https://www.sbb.ch/en/tickets-offers/tickets/guests-abroad/swiss-family-card.html) for 3 days along with family card. sbb app or website
 {: .prompt-tip }
