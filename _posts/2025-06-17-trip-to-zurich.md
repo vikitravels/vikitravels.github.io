@@ -43,7 +43,7 @@ Oslo       ✈  Zurich
 * ❄️ Enjoy snow, glacier cave, suspension bridge
 * 🚡 On the way down: stop at Trübsee (great lake walk!)
 * 🚡 to Engelberg (explore village)
-* Check-In to hotel [Amanthos Living](https://maps.app.goo.gl/SwFVRMZ5r5jCfh7i8)
+* 🏨 Check-In to hotel [Amanthos Living](https://maps.app.goo.gl/SwFVRMZ5r5jCfh7i8)
 
 *Resturants Nearby* 
 
