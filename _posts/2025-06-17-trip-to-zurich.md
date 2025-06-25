@@ -60,7 +60,7 @@ Oslo       ✈  Zurich
 * 🚡 Gondola to Grindelwald First
 * 🚆 Return to Zurich
 
-*Resturants for Lunch* 
+*Resturant option for Lunch* 
 
 1. [Tandoori Restaurant Interlaken](https://maps.app.goo.gl/soAaBzEuoQyd5pBJ9) *Interlaken, Zentralplatz*
 
