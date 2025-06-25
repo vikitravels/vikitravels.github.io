@@ -60,6 +60,10 @@ Oslo       ✈  Zurich
 * 🚡 Gondola to Grindelwald First
 * 🚆 Return to Zurich
 
+*Resturants for Lunch* 
+
+1. [Tandoori Restaurant Interlaken](https://maps.app.goo.gl/soAaBzEuoQyd5pBJ9) *Interlaken, Zentralplatz*
+
 #### Mon, 28 Jul 2025
 *Day trip to Zermatt & Matterhorn Glacier Paradise (STP covers everything exept Glacier paradise cable car 50% off)*
 
