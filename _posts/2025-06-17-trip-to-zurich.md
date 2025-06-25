@@ -32,7 +32,7 @@ Oslo       ✈  Zurich
 {: .prompt-tip }
 
 #### Sat, 26 Jul 2025
-*Mt. Titlis + Trübsee + Engelberg Village (STP covers everything except Titlis gondola *50% off*)*
+*Mt. Titlis + Trübsee + Engelberg Village (STP covers everything except Titlis gondola 50% off)*
 
 * 🚆 Zurich HB → Lucerne (~50 min)
 * 🚆 Lucerne → Engelberg (~45 min)
@@ -52,7 +52,7 @@ Oslo       ✈  Zurich
 * 🚆 Return to Zurich
 
 #### Mon, 28 Jul 2025
-*Day trip to Zermatt & Matterhorn Glacier Paradise (STP covers everything exept Glacier paradise cable car *50% off*)*
+*Day trip to Zermatt & Matterhorn Glacier Paradise (STP covers everything exept Glacier paradise cable car 50% off)*
 
 * 🚆 Zurich HB → Visp (~2h 40m)
 * 🚆 Visp → Zermatt (~40 min)
