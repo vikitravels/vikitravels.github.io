@@ -31,7 +31,10 @@ Oslo       ✈  Zurich
 * Walk along Lake Zurich and enjoy the evening views.
 * 🍜🍕🍻🍷 House Party.
 
-> Buy [Swiss travel pass](https://www.sbb.ch/en/tickets-offers/tickets/guests-abroad/swiss-family-card.html) for 3 days along with family card. sbb app or website
+> Buy [Swiss travel pass](https://www.sbb.ch/en/tickets-offers/tickets/guests-abroad/swiss-family-card.html) for 3 days along with family card. sbb app or website.
+{: .prompt-tip }
+
+> Buy [Lyca eSim](https://www.lycamobile.ch/en/bundle/unlimited-daily/?newUser=true) for 5 days with unlimited data.
 {: .prompt-tip }
 
 #### Sat, 26 Jul 2025
