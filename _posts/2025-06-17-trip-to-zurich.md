@@ -110,6 +110,9 @@ Via: Basel
 * Berlin shopping with half day City tour
 
 ```
-Zurich     ✈  Oslo
-07:00         09:15
+Berlin        ✈  Stockholm
+22:25            23:59
+
+Stockholm     ✈  Oslo
+07:35            08:35
 ```
