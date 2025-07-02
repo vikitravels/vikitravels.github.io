@@ -91,17 +91,24 @@ Oslo       ✈  Zurich
 #### Tue, 29 Jul 2025
 
 ```
-Zurich      🚆       Berlin
-09:00                17:32
-Via: Basel
+IC 764  |  Zürich HB     🚆    Basel SBB
+           08:59 (plt 14)      09:53
+
+ICE 370 |  Basel SBB     🚆    Berlin Hbf
+           10:13 (plt 10)      17:31
 ```
 
+* Taxi from Berlin hbf to hotel.
 * Check-In to hotel 🏨  [acama HOTEL+HOSTEL KREUZBERG](https://maps.app.goo.gl/eNoybKbtmGmnj61h7)
+* Walk or take a short ride towards Potsdamer Platz 
 * Dinner at resturant [*AMRIT Potsdamer Platz*](https://maps.app.goo.gl/2R4U9vd5SBXLZzir8)
 
 
 #### Wed, 30 Jul 2025
 *Berlin Local City tour*
+
+> Purchase [BVG 24Hrs tickets](https://www.bvg.de/en/subscriptions-and-tickets/all-tickets/24h-tickets/24h-ticket) via BVG app.
+{: .prompt-tip }
 
 
 
