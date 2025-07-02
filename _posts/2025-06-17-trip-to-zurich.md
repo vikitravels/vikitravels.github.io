@@ -1,9 +1,9 @@
 ---
-title: Trip to Zurich, Switzerland (4 Days travel itinerary)
+title: Trip to Zurich and Berlin (7 Days travel itinerary)
 author: hclpandv
 date: 2025-06-17 10:23:00 +0800
-categories: [travels, Norway, Switzerland]
-tags: [travels,Switzerland,SAS]
+categories: [travels, Norway, Switzerland, Germany]
+tags: [travels,Switzerland,SAS,Germany]
 mermaid: true
 img_path: /images/travel/perhentian/
 image_sliders:
@@ -79,8 +79,7 @@ Oslo       ✈  Zurich
 * ❄️ Explore Glacier Palace (ice caves), enjoy snow activities, and take in panoramic views of the Matterhorn and surrounding Alps (~2–2.5 hours)
 * 🚆 Zermatt → Visp → Zurich HB (~3h 15m)
 
-#### Optional Day
-*Mount Rigi via Lucerne & Vitznau (STP fully covers all)*
+*Optional Day: Mount Rigi via Lucerne & Vitznau (STP fully covers all)*
 
 * 🚆 Zurich HB → Lucerne (~50 min)
 * 🚢 Boat: Lucerne → Vitznau (~1 hr)
@@ -88,3 +87,29 @@ Oslo       ✈  Zurich
 * 🏞️ Explore Rigi Kulm — walks, lunch, views
 * 🚞 Rigi Kulm → Arth-Goldau (via cogwheel)
 * 🚆 Arth-Goldau → Zurich HB (~45–50 min, fast intercity train)
+
+#### Tue, 29 Jul 2025
+
+```
+Zurich      🚆       Berlin
+09:00                17:32
+Via: Basel
+```
+
+* Check-In to hotel 🏨  [acama HOTEL+HOSTEL KREUZBERG](https://maps.app.goo.gl/eNoybKbtmGmnj61h7)
+* Dinner at resturant [*AMRIT Potsdamer Platz*](https://maps.app.goo.gl/2R4U9vd5SBXLZzir8)
+
+
+#### Wed, 30 Jul 2025
+*Berlin Local City tour*
+
+
+
+#### Wed, 31 Jul 2025
+
+* Berlin shopping with half day City tour
+
+```
+Zurich     ✈  Oslo
+07:00         09:15
+```
