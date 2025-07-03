@@ -57,10 +57,10 @@ Oslo       ✈  Zurich
 5. [Kanzlei Club](https://maps.app.goo.gl/rWVW8SK421aecseT7) *30 mins via s-bahn, Night club*
 
 > Souvenirs to buy: 
-Swiss army knife from [Victorinox Flagship Store Zürich](https://maps.app.goo.gl/iqix1EEFP5vB289MA)
-Cow Bells on various stores.
-Carotina Hot Chocolate Powder from coop.
-Chocolate brands: Ragusa, Villars, Caillers, Local Swiss brands
+Swiss army knife from [Victorinox Flagship Store Zürich](https://maps.app.goo.gl/iqix1EEFP5vB289MA)  
+Cow Bells on various stores.  
+Carotina Hot Chocolate Powder from coop.  
+Chocolate brands: Ragusa, Villars, Caillers, Local Swiss brands  
 Packaged Rösti at Coop
 {: .prompt-tip }
 
