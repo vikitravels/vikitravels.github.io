@@ -61,7 +61,7 @@ Swiss army knife from [Victorinox Flagship Store Zürich](https://maps.app.goo.g
 Cow Bells on various stores.  
 Carotina Hot Chocolate Powder from coop.  
 Chocolate brands: Ragusa, Villars, Caillers, Local Swiss brands  
-Packaged Rösti at Coop
+Packaged Rösti and Raclette cheese at Coop
 {: .prompt-tip }
 
 #### Sun, 27 Jul 2025.
@@ -76,6 +76,7 @@ Packaged Rösti at Coop
 *Resturant option for Lunch* 
 
 1. [Tandoori Restaurant Interlaken](https://maps.app.goo.gl/soAaBzEuoQyd5pBJ9) *Interlaken, Zentralplatz*
+2. [Snack-Express](https://g.co/kgs/aA1mjht) (also have McDonalds 100 mtrs) *Interlaken, Zentralplatz*
 
 #### Mon, 28 Jul 2025
 *Day trip to Zermatt & Matterhorn Glacier Paradise (STP covers everything exept Glacier paradise cable car 50% off)*
