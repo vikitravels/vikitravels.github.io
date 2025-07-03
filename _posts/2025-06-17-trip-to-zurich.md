@@ -56,7 +56,15 @@ Oslo       ✈  Zurich
 4. [Coop Supermarkt Glattbrugg](https://maps.app.goo.gl/3XTKLfhp2iMuE7v79) *450 mtrs super market*
 5. [Kanzlei Club](https://maps.app.goo.gl/rWVW8SK421aecseT7) *30 mins via s-bahn, Night club*
 
-#### Sun, 27 Jul 2025
+> Souvenirs to buy: 
+1. Swiss army knife from [Victorinox Flagship Store Zürich](https://maps.app.goo.gl/iqix1EEFP5vB289MA)
+2. Cow Bells on various stores.
+3. Carotina Hot Chocolate Powder from coop.
+4. Chocolate brands: Ragusa, Villars, Caillers, Local Swiss brands
+5. Packaged Rösti at Coop
+{: .prompt-tip }
+
+#### Sun, 27 Jul 2025.
 *Grindelwald Day Trip (STP fully covers all)*
 
 * 🚆 Zurich HB → Bern (IC train, about 1 hour)
