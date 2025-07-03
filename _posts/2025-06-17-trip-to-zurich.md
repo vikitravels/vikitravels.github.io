@@ -76,7 +76,7 @@ Packaged Rösti and Raclette cheese at Coop
 *Resturant option for Lunch* 
 
 1. [Tandoori Restaurant Interlaken](https://maps.app.goo.gl/soAaBzEuoQyd5pBJ9) *Interlaken, Zentralplatz*
-2. [Snack-Express](https://g.co/kgs/aA1mjht) (also have McDonalds 100 mtrs) *Interlaken, Zentralplatz*
+2. [Snack-Express](https://maps.app.goo.gl/2bt3X4YE9nwcgCZJ6) (also have McDonalds 100 mtrs) *Interlaken, Zentralplatz*
 
 #### Mon, 28 Jul 2025
 *Day trip to Zermatt & Matterhorn Glacier Paradise (STP covers everything exept Glacier paradise cable car 50% off)*
