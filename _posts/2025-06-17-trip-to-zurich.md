@@ -58,6 +58,7 @@ Oslo       ✈  Zurich
 
 > Souvenirs to buy: 
 Swiss army knife from [Victorinox Flagship Store Zürich](https://maps.app.goo.gl/iqix1EEFP5vB289MA)  
+Color pencils from [Müller Drug sote](https://www.mueller.de/p/staedtler-noris-club-jumbo-farbstift-10-2-mit-spitzer-2237519) *Spread across berlin. Big store in Mall of Berlin* 
 Cow Bells on various stores.  
 Carotina Hot Chocolate Powder from coop.  
 Chocolate brands: Ragusa, Villars, Caillers, Local Swiss brands  
