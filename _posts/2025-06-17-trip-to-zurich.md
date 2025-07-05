@@ -116,7 +116,7 @@ ICE 370 |  Basel SBB     🚆    Berlin Hbf
 #### Wed, 30 Jul 2025
 *Berlin Local City tour*
 
-> 🎫 Purchase [BVG 24Hrs tickets](https://www.bvg.de/en/subscriptions-and-tickets/all-tickets/24h-tickets/24h-ticket) via the BVG app.
+> 🎫 Purchase [BVG 24Hrs tickets](https://www.bvg.de/en/subscriptions-and-tickets/all-tickets/24h-tickets/24h-ticket) via the BVG app.  
 🖍️ Color pencils from [Müller Drug store](https://www.mueller.de/p/staedtler-noris-club-jumbo-farbstift-10-2-mit-spitzer-2237519) – available across Berlin. Large store at Mall of Berlin.
 {: .prompt-tip }
  
