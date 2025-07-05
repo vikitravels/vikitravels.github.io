@@ -120,16 +120,17 @@ ICE 370 |  Basel SBB     🚆    Berlin Hbf
 🖍️ Color pencils from [Müller Drug store](https://www.mueller.de/p/staedtler-noris-club-jumbo-farbstift-10-2-mit-spitzer-2237519) – available across Berlin. Large store at Mall of Berlin.
 {: .prompt-tip }
  
-* Explore [GALERIA Berlin Alexanderplatz](https://maps.app.goo.gl/dmgFtXVZo19pCywM9) 
-* [Checkpoint Charlie](https://maps.app.goo.gl/9RoKR6MNygrnpTrs5)
-* [Mall of Berlin](https://maps.app.goo.gl/6haiW1GE5mBPXBSVA)
-* [Brandenburg Gate](https://maps.app.goo.gl/Szub5wGhQ1s9mJ8bA)
-* [Topography of Terror](https://maps.app.goo.gl/7vQuNXp4bdRLMUeo6)
-* [Reichstag Building](https://maps.app.goo.gl/j58CL95QLreY4XGLA) *German Parliament*
+* Take U-Bahn to Alexanderplatz and explore [GALERIA Berlin Alexanderplatz](https://maps.app.goo.gl/dmgFtXVZo19pCywM9) and nearby area.
+* S-Bahn to Potsdamer Platz and walk to [Mall of Berlin](https://maps.app.goo.gl/6haiW1GE5mBPXBSVA)
+* Short walk to [Checkpoint Charlie](https://maps.app.goo.gl/9RoKR6MNygrnpTrs5)  
+* Walk to [Topography of Terror](https://maps.app.goo.gl/7vQuNXp4bdRLMUeo6)
+* Walk/(Bus M41 to Brandenburger Tor) and visit [Brandenburg Gate](https://maps.app.goo.gl/Szub5wGhQ1s9mJ8bA)
+* Walk towards [Reichstag Building](https://maps.app.goo.gl/j58CL95QLreY4XGLA) *German Parliament*
+* M41 bus towards 🍻 BRLO Brwhouse 
 
 #### Wed, 31 Jul 2025
 
-
+*Berlin Shopping*
 
 
 ```
