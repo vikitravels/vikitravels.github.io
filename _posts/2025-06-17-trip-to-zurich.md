@@ -126,7 +126,7 @@ ICE 370 |  Basel SBB     🚆    Berlin Hbf
 * Walk to [Topography of Terror](https://maps.app.goo.gl/7vQuNXp4bdRLMUeo6)
 * Walk/(Bus M41 to Brandenburger Tor) and visit [Brandenburg Gate](https://maps.app.goo.gl/Szub5wGhQ1s9mJ8bA)
 * Walk towards [Reichstag Building](https://maps.app.goo.gl/j58CL95QLreY4XGLA) *German Parliament*
-* M41 bus towards 🍻 BRLO Brwhouse 
+* M41 bus towards 🍻 [BRLO Brwhouse](https://maps.app.goo.gl/syKV96wV6ZhdRm4e8) 
 
 #### Wed, 31 Jul 2025
 
