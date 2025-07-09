@@ -55,6 +55,7 @@ Oslo       ✈  Zurich
 3. [Brauerei Oerlikon AG](https://maps.app.goo.gl/xR2SwqTxPA9K2Qw67) *1.8 KMs 15 mins public transport for freshly brewed beers*
 4. [Coop Supermarkt Glattbrugg](https://maps.app.goo.gl/3XTKLfhp2iMuE7v79) *450 mtrs super market*
 5. [Kanzlei Club](https://maps.app.goo.gl/rWVW8SK421aecseT7) *30 mins via s-bahn, Night club*
+6. [Swiss Chuchi Restaurant](https://maps.app.goo.gl/z3CCUmwoRHvEgNA48) *Must try cheese fondue with bread* 
 
 > Souvenirs to buy: 
 Swiss army knife from [Victorinox Flagship Store Zürich](https://maps.app.goo.gl/iqix1EEFP5vB289MA)  
