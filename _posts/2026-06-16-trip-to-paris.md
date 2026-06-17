@@ -57,6 +57,13 @@ Munich     ✈  Paris
 * Return:
   From Louvre take Line 1 → change to Line 4 at Châtelet → Alésia
 
+> Indian resturants nearby:  
+[LE MAHARAJA](https://maps.app.goo.gl/fy6Tev7BqzUmdieE7)  
+[Istanbul Grill](https://maps.app.goo.gl/jyqQUKAj8mCWwN1F7)  
+[Pizzeria I Briganti - Paris 14](https://maps.app.goo.gl/7nEYaQCAiKLpGBzm7)
+{: .prompt-tip }
+
+
 ### Tue, 21 Jul 2026 — Departure to Brussels
 
 * Metro to Gare du Nord:
