@@ -14,7 +14,7 @@ image_sliders:
 {: .prompt-tip }
 
 
-### ✈️ Sun, 19 Jul 2026
+### Sun, 19 Jul 2026 - Paris Arrival + Eiffel Area Evening Loop
 
 ```
 Oslo       ✈  Munich
@@ -23,8 +23,6 @@ Oslo       ✈  Munich
 Munich     ✈  Paris
 11:55         13:30
 ```
-
-#### Paris Arrival + Eiffel Area Evening Loop
 
 * Arrive at airport → taxi/Bolt to hotel
 
