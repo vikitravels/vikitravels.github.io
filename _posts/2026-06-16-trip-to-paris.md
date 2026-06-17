@@ -13,7 +13,7 @@ image_sliders:
 > Look for BOULANGERIE for fresh bakery in Paris
 {: .prompt-tip }
 
-#### Sun, 19 Jul 2026 
+## ✈️ Sun, 19 Jul 2026
 
 ```
 Oslo       ✈  Munich
@@ -23,11 +23,11 @@ Munich     ✈  Paris
 11:55         13:30
 ```
 
-*Local City tour (Trocadéro → Eiffel Tower (Champ de Mars) → Seine River → Pont Alexandre III)*
+### Paris Arrival + Eiffel Area Evening Loop
 
-* Arrive at airport and taxi/bolt to Hotel
-  
-* Walk to Alésia (Line 4, direction Porte de Clignancourt) → change at Strasbourg–Saint-Denis to Line 9 → exit at Trocadéro.
+* Arrive at airport → taxi/Bolt to hotel
+
+* Metro to Trocadéro: Walk to Alésia (Line 4, direction Porte de Clignancourt) → change at Strasbourg–Saint-Denis to Line 9 → exit at Trocadéro
 
 <img width="939" height="534" alt="Image" src="https://github.com/user-attachments/assets/2e4661e3-5e83-4988-bd33-79715651b30e" />
 
@@ -35,23 +35,30 @@ Munich     ✈  Paris
 
 <img width="875" height="644" alt="Image" src="https://github.com/user-attachments/assets/c1928af2-7d89-4b82-be3f-0e5c742a2f52" />
 
-* Cross bridge near Eiffel Tower, watch river reflections, calm walking towards Pont Alexandre III (Most elegant bridge view in Paris)
+* Walk across Seine River → Pont Alexandre III (golden hour / night view)
 
 <img width="882" height="466" alt="Image" src="https://github.com/user-attachments/assets/934f44b2-0560-4b5c-af36-8c10c04a32cb" />
 
-* Metro back to hotel and dinner
+* Return to hotel and dinner
 
-#### Mon, 20 Jul 2026 
+## Mon, 20 Jul 2026 — Montmartre + Arc de Triomphe + Champs-Élysées
 
-* Walk to Alésia (Line 4, direction Porte de Clignancourt) → get off at Barbès-Rochechouart or Anvers → walk to MontmartreMontmartre & Sacré-Cœur
-* Line 2 from Anvers (direction Charles de Gaulle–Étoile) → exit at Charles de Gaulle–Étoile (Arc de Triomphe)
+* Metro to Montmartre:
+  Walk to Alésia (Line 4, direction Porte de Clignancourt) → exit at Barbès-Rochechouart or Anvers → walk to Montmartre & Sacré-Cœur
+
+* Metro to Arc de Triomphe:
+  From Anvers take Line 2 (direction Charles de Gaulle–Étoile) → exit at Charles de Gaulle–Étoile
+
 * Walk Champs-Élysées
-* return via Line 1/Line 4 to Alésia.
 
-#### Tue, 21 Jul 2026
+* Return:
+  Line 1 or Line 4 → Alésia
 
-* Walk to Alésia (Line 4) direction Porte de Clignancourt) → stay on until Gare du Nord → exit at *Gare du Nord* station (follow signs for SNCF / Eurostar / TGV)
+## 🚆 Tue, 21 Jul 2026 — Departure to Brussels
 
+* Metro to Gare du Nord:
+  Walk to Alésia → take Line 4 (direction Porte de Clignancourt) → stay until Gare du Nord → exit following signs for SNCF / Eurostar / TGV
+  
 ```
 Paris Gare du Nord     🚆    Brussels Midi/Zuid
 8:18 AM                      11:21 AM
