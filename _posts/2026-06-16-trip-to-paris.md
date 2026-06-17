@@ -13,7 +13,8 @@ image_sliders:
 > Look for BOULANGERIE for fresh bakery in Paris
 {: .prompt-tip }
 
-## ✈️ Sun, 19 Jul 2026
+
+### ✈️ Sun, 19 Jul 2026
 
 ```
 Oslo       ✈  Munich
@@ -23,7 +24,7 @@ Munich     ✈  Paris
 11:55         13:30
 ```
 
-### Paris Arrival + Eiffel Area Evening Loop
+#### Paris Arrival + Eiffel Area Evening Loop
 
 * Arrive at airport → taxi/Bolt to hotel
 
@@ -41,7 +42,7 @@ Munich     ✈  Paris
 
 * Return to hotel and dinner
 
-## Mon, 20 Jul 2026 — Montmartre + Arc de Triomphe + Champs-Élysées
+### Mon, 20 Jul 2026 — Montmartre + Arc de Triomphe + Champs-Élysées
 
 * Metro to Montmartre:
   Walk to Alésia (Line 4, direction Porte de Clignancourt) → exit at Barbès-Rochechouart or Anvers → walk to Montmartre & Sacré-Cœur
@@ -54,7 +55,7 @@ Munich     ✈  Paris
 * Return:
   Line 1 or Line 4 → Alésia
 
-## 🚆 Tue, 21 Jul 2026 — Departure to Brussels
+### Tue, 21 Jul 2026 — Departure to Brussels
 
 * Metro to Gare du Nord:
   Walk to Alésia → take Line 4 (direction Porte de Clignancourt) → stay until Gare du Nord → exit following signs for SNCF / Eurostar / TGV
@@ -66,9 +67,9 @@ Paris Gare du Nord     🚆    Brussels Midi/Zuid
 
 * TBD another train to Amsterdam
 
-#### Tue, 22 Jul 2026
+### Tue, 22 Jul 2026
 
-#### Thu, 23 Jul 2026
+### Thu, 23 Jul 2026
 
 *Brussels to Bruges*
 
