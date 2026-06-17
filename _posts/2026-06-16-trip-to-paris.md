@@ -48,12 +48,14 @@ Munich     ✈  Paris
 * Metro to Arc de Triomphe:
   From Anvers take Line 2 (direction Charles de Gaulle–Étoile) → exit at Charles de Gaulle–Étoile
 
-* Walk Champs-Élysées
+* Walk down Champs-Élysées:
+  Arc de Triomphe → walk toward Franklin D. Roosevelt / Concorde
 
-* Take Metro Line 1 (direction Château de Vincennes) and exit at Palais Royal – Musée du Louvre
+* Louvre (final stop):
+  From Champs-Élysées take Line 1 (direction Château de Vincennes) → exit at Palais Royal – Musée du Louvre
 
 * Return:
-  Line 1 or Line 4 → Alésia
+  From Louvre take Line 1 → change to Line 4 at Châtelet → Alésia
 
 ### Tue, 21 Jul 2026 — Departure to Brussels
 
