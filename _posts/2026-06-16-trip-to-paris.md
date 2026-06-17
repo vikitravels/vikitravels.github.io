@@ -50,6 +50,8 @@ Munich     ✈  Paris
 
 * Walk Champs-Élysées
 
+* Take Metro Line 1 (direction Château de Vincennes) and exit at Palais Royal – Musée du Louvre
+
 * Return:
   Line 1 or Line 4 → Alésia
 
