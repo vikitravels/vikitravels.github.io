@@ -63,6 +63,9 @@ Munich     ✈  Paris
 [Pizzeria I Briganti - Paris 14](https://maps.app.goo.gl/7nEYaQCAiKLpGBzm7)
 {: .prompt-tip }
 
+> OPTIONAL: Galeries Lafayette Haussmann rooftop terrace for best views
+{: .prompt-tip }
+
 
 ### Tue, 21 Jul 2026 — Departure to Brussels
 
