@@ -57,7 +57,7 @@ Munich     ✈  Paris
 * Return:
   From Louvre take Line 1 → change to Line 4 at Châtelet → Alésia
 
-> Indian resturants nearby:  
+> Resturants nearby:  
 [LE MAHARAJA](https://maps.app.goo.gl/fy6Tev7BqzUmdieE7)  
 [Istanbul Grill](https://maps.app.goo.gl/jyqQUKAj8mCWwN1F7)  
 [Pizzeria I Briganti - Paris 14](https://maps.app.goo.gl/7nEYaQCAiKLpGBzm7)
@@ -72,9 +72,23 @@ Munich     ✈  Paris
 ```
 Paris Gare du Nord     🚆    Brussels Midi/Zuid
 8:18 AM                      11:21 AM
+(SNCF Ouigo)
+
+BRUXELLES-MIDI         🚆    AMSTERDAM C. 
+12:57 PM                     03:09 PM
+(Eurocity Direct)
 ```
 
-* TBD another train to Amsterdam
+> Buy 1 group day ticket GVB app + 1 child day (works for 24 hour)
+{: .prompt-tip }
+
+* Buss 22 to hotel (15 mins)
+
+* Evening stroll and canal cruise and back to hotel
+
+> Resturants nearby:  
+[Chandni Chowk Indian Restaurant 🇮🇳](https://maps.app.goo.gl/gB7nPar6kRMxnbLF9)  
+{: .prompt-tip }
 
 ### Tue, 22 Jul 2026
 
