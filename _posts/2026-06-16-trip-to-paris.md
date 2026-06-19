@@ -87,13 +87,21 @@ BRUXELLES-MIDI         🚆    AMSTERDAM C.
 
 * Buss 22 to hotel (15 mins)
 
-* Evening stroll and canal cruise and back to hotel
+* Start from Centraal Station and walk towards Jordaan
+* Walk towards Prinsengracht canal
+* Walk towards Brouwersgracht along with the canal street
+* Nine Streets (De 9 Straatjes) : Walk south into the canal ring grid for Boutique shops, Vintage stores and Canal-side cafés
+* Hidden stop: Begijnhof courtyard (Optional)
+* Remember Stroopwafel fresh from a small bakery and quick coffee by the canal
+* Back to hotel
 
 > Resturants nearby:  
 [Chandni Chowk Indian Restaurant 🇮🇳](https://maps.app.goo.gl/gB7nPar6kRMxnbLF9)  
 {: .prompt-tip }
 
 ### Tue, 22 Jul 2026
+
+* Canal cruise and museum tours
 
 ### Thu, 23 Jul 2026
 
