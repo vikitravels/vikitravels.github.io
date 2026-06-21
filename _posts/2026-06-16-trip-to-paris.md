@@ -93,22 +93,42 @@ BRUXELLES-MIDI         🚆    AMSTERDAM C.
   Amsterdam Centraal → Damrak → Dam Square → Singel Canal → Herengracht
 
 * Return:  
-  Walk back to Amsterdam Centraal → Metro 50 → Isolatorweg
+  Walk back to Amsterdam Centraal → Buss 22 to hotel
 
 > Resturants nearby:  
 [Chandni Chowk Indian Restaurant 🇮🇳](https://maps.app.goo.gl/gB7nPar6kRMxnbLF9)    
 [Ram's Roti](https://maps.app.goo.gl/onNU3JcDMTRhivUdA) (best surinami roti to enjoy)
 {: .prompt-tip }
 
-### Wed, 22 Jul 2026 - Jordaan + Begijnhof + De Pijp + Vondelpark + Canal Cruise
+### Wed, 22 Jul 2026 - Jordaan + De Pijp + Canal Cruise
 
-* Start from Centraal Station and walk towards Jordaan
-* Walk towards Prinsengracht canal
-* Walk towards Brouwersgracht along with the canal street
-* Nine Streets (De 9 Straatjes) : Walk south into the canal ring grid for Boutique shops, Vintage stores and Canal-side cafés
-* Hidden stop: Begijnhof courtyard (Optional)
-* Remember Stroopwafel fresh from a small bakery and quick coffee by the canal
-* Back to hotel
+* Walk 5 min to Kabelweg then Bus 22 → Buiten Oranjestraat
+
+* Walk from Buiten Oranjestraat towards Brouwersgracht 
+  
+* Walk east along Brouwersgracht and continue straight to the intersection with Prinsengracht  
+  (Brouwersgracht × Prinsengracht = BEST PHOTO SPOT)
+
+* Walk south along Prinsengracht into Jordaan edge  
+  (easy canal-side walking, no navigation complexity)
+
+* Walk into Jordaan  
+  (explore side canals + cafés + quiet streets)
+  
+* Continue walking naturally toward De 9 Straatjes  
+  (enter the canal grid for boutique shops, vintage stores, and canal-side cafés)
+  
+* Lunch in De Pijp   
+  Metro 52 (Rokin → De Pijp) → Albert Cuyp Market (stroopwafel, Dutch snacks, local atmosphere)
+
+* Tram/Walk from De Pijp → Museumplein  
+  Rijksmuseum exterior stop (photo through tunnel + front façade + gardens)
+
+* Canal cruise from Westermarkt (Prinsengracht area)
+
+* Dinner at Ram's Roti
+
+* back to hotel 
 
 ### Thu, 23 Jul 2026 - Antwerpen tour + Transit via Brussels 
 
