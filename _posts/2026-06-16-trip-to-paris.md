@@ -96,7 +96,7 @@ BRUXELLES-MIDI         🚆    AMSTERDAM C.
   Walk back to Amsterdam Centraal → Metro 50 → Isolatorweg
 
 > Resturants nearby:  
-[Chandni Chowk Indian Restaurant 🇮🇳](https://maps.app.goo.gl/gB7nPar6kRMxnbLF9)
+[Chandni Chowk Indian Restaurant 🇮🇳](https://maps.app.goo.gl/gB7nPar6kRMxnbLF9)  
 [Ram's Roti](https://maps.app.goo.gl/onNU3JcDMTRhivUdA) (best surinami roti to enjoy)
 {: .prompt-tip }
 
