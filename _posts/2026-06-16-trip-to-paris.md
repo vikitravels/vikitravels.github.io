@@ -10,9 +10,6 @@ image_sliders:
   - perhentian
 ---
 
-> Look for BOULANGERIE for fresh bakery in Paris
-{: .prompt-tip }
-
 
 ### Sun, 19 Jul 2026 - Paris Arrival + Eiffel Area Evening Loop
 
@@ -23,6 +20,9 @@ Oslo       ✈  Munich
 Munich     ✈  Paris
 11:55         13:30
 ```
+
+> Look for BOULANGERIE for fresh bakery in Paris
+{: .prompt-tip }
 
 * Arrive at airport → taxi/Bolt to hotel
 
