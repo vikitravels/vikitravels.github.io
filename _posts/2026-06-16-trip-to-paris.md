@@ -39,19 +39,19 @@ Munich     ✈  Paris
 
 ### Mon, 20 Jul 2026 — Montmartre + Arc de Triomphe + Champs-Élysées
 
-* Metro to Montmartre:
+* Metro to Montmartre:  
   Walk to Alésia (Line 4, direction Porte de Clignancourt) → exit at Barbès-Rochechouart or Anvers → walk to Montmartre & Sacré-Cœur
 
-* Metro to Arc de Triomphe:
+* Metro to Arc de Triomphe:  
   From Anvers take Line 2 (direction Charles de Gaulle–Étoile) → exit at Charles de Gaulle–Étoile
 
-* Walk down Champs-Élysées:
+* Walk down Champs-Élysées:  
   Arc de Triomphe → walk toward Franklin D. Roosevelt / Concorde
 
-* Louvre (final stop):
+* Louvre (final stop):  
   From Champs-Élysées take Line 1 (direction Château de Vincennes) → exit at Palais Royal – Musée du Louvre
 
-* Return:
+* Return:  
   From Louvre take Line 1 → change to Line 4 at Châtelet → Alésia
 
 > Resturants nearby:  
@@ -66,7 +66,7 @@ Munich     ✈  Paris
 
 ### Tue, 21 Jul 2026 — Departure to Brussels
 
-* Metro to Gare du Nord:
+* Metro to Gare du Nord:  
   Walk to Alésia → take Line 4 (direction Porte de Clignancourt) → stay until Gare du Nord → exit following signs for SNCF / Eurostar / TGV
   
 ```
@@ -86,17 +86,17 @@ BRUXELLES-MIDI         🚆    AMSTERDAM C.
 
 * Rest at hotel 
 
-* Metro to city centre:
+* Metro to city centre:  
   Isolatorweg → Metro 50 → Amsterdam Centraal
 
-* Evening walk:
+* Evening walk:  
   Amsterdam Centraal → Damrak → Dam Square → Singel Canal → Herengracht
 
-* Return:
+* Return:  
   Walk back to Amsterdam Centraal → Metro 50 → Isolatorweg
 
 > Resturants nearby:  
-[Chandni Chowk Indian Restaurant 🇮🇳](https://maps.app.goo.gl/gB7nPar6kRMxnbLF9)  
+[Chandni Chowk Indian Restaurant 🇮🇳](https://maps.app.goo.gl/gB7nPar6kRMxnbLF9)    
 [Ram's Roti](https://maps.app.goo.gl/onNU3JcDMTRhivUdA) (best surinami roti to enjoy)
 {: .prompt-tip }
 
