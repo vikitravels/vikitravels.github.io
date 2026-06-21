@@ -100,7 +100,7 @@ BRUXELLES-MIDI         🚆    AMSTERDAM C.
 [Ram's Roti](https://maps.app.goo.gl/onNU3JcDMTRhivUdA) (best surinami roti to enjoy)
 {: .prompt-tip }
 
-### Tue, 22 Jul 2026
+### Wed, 22 Jul 2026
 
 * Start from Centraal Station and walk towards Jordaan
 * Walk towards Prinsengracht canal
