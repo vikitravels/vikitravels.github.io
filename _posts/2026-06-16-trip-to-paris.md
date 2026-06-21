@@ -64,7 +64,7 @@ Munich     ✈  Paris
 {: .prompt-tip }
 
 
-### Tue, 21 Jul 2026 — Departure to Brussels
+### Tue, 21 Jul 2026 — Amsterdam Arrival + Central and Canal Area Evening walk
 
 * Metro to Gare du Nord:  
   Walk to Alésia → take Line 4 (direction Porte de Clignancourt) → stay until Gare du Nord → exit following signs for SNCF / Eurostar / TGV
@@ -100,7 +100,7 @@ BRUXELLES-MIDI         🚆    AMSTERDAM C.
 [Ram's Roti](https://maps.app.goo.gl/onNU3JcDMTRhivUdA) (best surinami roti to enjoy)
 {: .prompt-tip }
 
-### Wed, 22 Jul 2026
+### Wed, 22 Jul 2026 - Full day city walk + Canal cruise
 
 * Start from Centraal Station and walk towards Jordaan
 * Walk towards Prinsengracht canal
@@ -110,7 +110,7 @@ BRUXELLES-MIDI         🚆    AMSTERDAM C.
 * Remember Stroopwafel fresh from a small bakery and quick coffee by the canal
 * Back to hotel
 
-### Thu, 23 Jul 2026
+### Thu, 23 Jul 2026 - Antwerpen tour + Transit via Brussels 
 
 * Walk to Isolatorweg then Metro 50/51 to Amsterdam Zuid
 
