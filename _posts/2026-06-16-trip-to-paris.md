@@ -27,7 +27,7 @@ Munich     ✈  Paris
 * Arrive at airport → taxi/Bolt to hotel
 
 * Metro to Trocadéro: Walk to Alésia (Line 4, direction Porte de Clignancourt) → change at Strasbourg–Saint-Denis to Line 9 → exit at Trocadéro
-  <img width="721" height="365" alt="Image" src="https://github.com/user-attachments/assets/7981d8b5-ad89-4a91-95a2-2ddb90d9d386" />
+<img width="721" height="365" alt="Image" src="https://github.com/user-attachments/assets/7981d8b5-ad89-4a91-95a2-2ddb90d9d386" />
 
 * Walk to Eiffel Tower (Champ de Mars)
   <img width="783" height="376" alt="Image" src="https://github.com/user-attachments/assets/fdc11aeb-318f-4895-82f7-5469a822992f" />
