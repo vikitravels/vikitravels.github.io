@@ -84,6 +84,24 @@ BRUXELLES-MIDI         🚆    AMSTERDAM C.
 
 * Buss 22 to hotel (15 mins)
 
+* Rest at hotel 
+
+* Metro to city centre:
+  Isolatorweg → Metro 50 → Amsterdam Centraal
+
+* Evening walk:
+  Amsterdam Centraal → Damrak → Dam Square → Singel Canal → Herengracht
+
+* Return:
+  Walk back to Amsterdam Centraal → Metro 50 → Isolatorweg
+
+> Resturants nearby:  
+[Chandni Chowk Indian Restaurant 🇮🇳](https://maps.app.goo.gl/gB7nPar6kRMxnbLF9)
+[Ram's Roti](https://maps.app.goo.gl/onNU3JcDMTRhivUdA) (best surinami roti to enjoy)
+{: .prompt-tip }
+
+### Tue, 22 Jul 2026
+
 * Start from Centraal Station and walk towards Jordaan
 * Walk towards Prinsengracht canal
 * Walk towards Brouwersgracht along with the canal street
@@ -92,15 +110,9 @@ BRUXELLES-MIDI         🚆    AMSTERDAM C.
 * Remember Stroopwafel fresh from a small bakery and quick coffee by the canal
 * Back to hotel
 
-> Resturants nearby:  
-[Chandni Chowk Indian Restaurant 🇮🇳](https://maps.app.goo.gl/gB7nPar6kRMxnbLF9)  
-{: .prompt-tip }
-
-### Tue, 22 Jul 2026
-
-* Canal cruise and museum tours
-
 ### Thu, 23 Jul 2026
+
+* Walk to Isolatorweg then Metro 50/51 to Amsterdam Zuid
 
 ```
 Amsterdam Zuid          🚆      Antwerpen Centraal 
@@ -108,6 +120,9 @@ Amsterdam Zuid          🚆      Antwerpen Centraal
 (IC/Eurocity)
 ```
 
+* Explore Antwerpen C. which is one of the most beautiful railway station in the world.
+* Explore nearby area, waffels, lunch
+* Direct Train to Brussels Airport afternoon (45 min - 1 hour)
 
 ```
 Brussels Airport (BRU)   ✈   Oslo Gardermoen (OSL)
