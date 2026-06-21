@@ -105,10 +105,14 @@ BRUXELLES-MIDI         🚆    AMSTERDAM C.
 
 ### Thu, 23 Jul 2026
 
-*Brussels to Bruges*
+```
+Amsterdam Zuid          🚆      Antwerpen Centraal 
+07:34 AM                        09:16 AM
+(IC/Eurocity)
+```
 
 
 ```
-Brussels     ✈  Oslo
-21:00           22:55
+Brussels Airport (BRU)   ✈   Oslo Gardermoen (OSL)
+21:00                        22:55
 ```
