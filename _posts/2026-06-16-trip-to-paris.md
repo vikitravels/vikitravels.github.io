@@ -142,8 +142,8 @@ Amsterdam Zuid          🚆      Antwerpen Centraal
 
 * Explore Antwerpen C. which is one of the most beautiful railway station in the world.
   
-* Walk to Stadsfeestzaal (shopping mall) → Frites Atelier (for famous belgian fries) → Cathedral of our lady → Grote Mark (*2.1 Kms*)   
-  [google maps walking route](https://maps.app.goo.gl/nUp7ZFTAkJUQkAGk8)
+* Walk to Stadsfeestzaal (shopping mall) → Cathedral of our lady → Grote Mark → Fritkot Max (*2.1 Kms*)   
+  [google maps walking route](https://maps.app.goo.gl/SFF3FboiTV3nB1EM6)
   
 * Direct Train to Brussels Airport afternoon (45 min - 1 hour)
 
