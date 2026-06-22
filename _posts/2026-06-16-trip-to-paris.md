@@ -26,13 +26,13 @@ Munich     ✈  Paris
 
 * Arrive at airport → taxi/Bolt to hotel
 
-* Metro to Trocadéro: Walk to Alésia (Line 4, direction Porte de Clignancourt) → change at Strasbourg–Saint-Denis to Line 9 → exit at Trocadéro
+* Metro to Trocadéro: Walk to Alésia (Line 4, direction Porte de Clignancourt) → change at Raspail to Line 6 → exit at Trocadéro and walk to [Place du Trocadero](https://maps.app.goo.gl/75g9jzUjGAsBnh2b6) (*220 meters*)   
 <img width="721" height="365" alt="Image" src="https://github.com/user-attachments/assets/7981d8b5-ad89-4a91-95a2-2ddb90d9d386" />
 
-* Walk to Eiffel Tower (Champ de Mars)
+* Walk to [Champ de Mars](https://maps.app.goo.gl/ZeVZ8tHyUofcs3Bs8) for Eiffel Tower (*850 meters*)   
   <img width="783" height="376" alt="Image" src="https://github.com/user-attachments/assets/fdc11aeb-318f-4895-82f7-5469a822992f" />
 
-* Walk across Seine River → Pont Alexandre III (golden hour / night view)
+* Walk across Seine River → Pont Alexandre III (golden hour / night view) (*1.5 Kms*)  
   <img width="882" height="466" alt="Image" src="https://github.com/user-attachments/assets/934f44b2-0560-4b5c-af36-8c10c04a32cb" />
 
 * Return to hotel and dinner
@@ -40,7 +40,7 @@ Munich     ✈  Paris
 ### Mon, 20 Jul 2026 — Montmartre + Arc de Triomphe + Champs-Élysées
 
 * Metro to Montmartre:  
-  Walk to Alésia (Line 4, direction Porte de Clignancourt) → exit at Barbès-Rochechouart or Anvers → walk to Montmartre & Sacré-Cœur
+  Walk to Alésia (Line 4, direction Porte de Clignancourt) → exit at Barbès-Rochechouart or Anvers → walk to Montmartre & Sacré-Cœur (*650 Meters*)
 
 * Metro to Arc de Triomphe:  
   From Anvers take Line 2 (direction Charles de Gaulle–Étoile) → exit at Charles de Gaulle–Étoile
