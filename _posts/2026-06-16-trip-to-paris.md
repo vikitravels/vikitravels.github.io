@@ -98,6 +98,7 @@ BRUXELLES-MIDI         🚆    AMSTERDAM C.
 > Resturants nearby:  
 [Chandni Chowk Indian Restaurant 🇮🇳](https://maps.app.goo.gl/gB7nPar6kRMxnbLF9)    
 [Ram's Roti](https://maps.app.goo.gl/onNU3JcDMTRhivUdA) (best surinami roti to enjoy)
+[MaozFalafel](https://maps.app.goo.gl/UfhjofV84t1f1br2A) and [Mannekenpis Damrak fries](https://maps.app.goo.gl/gcoYLvPWt2WDH5TS8) (Near central station and both shop toghether)  
 {: .prompt-tip }
 
 ### Wed, 22 Jul 2026 - Jordaan + De Pijp + Canal Cruise
