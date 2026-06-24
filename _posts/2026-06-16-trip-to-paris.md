@@ -21,7 +21,7 @@ Munich     ✈  Paris
 11:55         13:30
 ```
 
-> Look for BOULANGERIE for fresh bakery in Paris
+> Look for BOULANGERIE for fresh bakery in Paris  
 Remember `Bonjour, parlez-vous anglais ?` → Hello, do you speak English
 {: .prompt-tip }
 
