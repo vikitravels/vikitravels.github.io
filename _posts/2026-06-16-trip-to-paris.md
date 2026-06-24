@@ -22,6 +22,7 @@ Munich     ✈  Paris
 ```
 
 > Look for BOULANGERIE for fresh bakery in Paris
+Remember `Bonjour, parlez-vous anglais ?` → Hello, do you speak English
 {: .prompt-tip }
 
 * Arrive at airport → taxi/Bolt to hotel
