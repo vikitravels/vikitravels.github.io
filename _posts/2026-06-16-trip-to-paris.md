@@ -112,7 +112,7 @@ BRUXELLES-MIDI         🚆    AMSTERDAM C.
   (Brouwersgracht × Prinsengracht = BEST PHOTO SPOT)
   [google maps walking route](https://maps.app.goo.gl/E7dLJjJxPNC6E6nYA)
 
-* Walk to [*Het Papeneiland cafe*](https://maps.app.goo.gl/ymNUY2ctP3owGM5B7) or [*Winkel 43*](https://maps.app.goo.gl/syHuc6kQ1e3VXRv58)   
+* Walk to [*Het Papeneiland cafe*](https://maps.app.goo.gl/ymNUY2ctP3owGM5B7) or [*Winkel 43*](https://maps.app.goo.gl/syHuc6kQ1e3VXRv58) for *Coffee & Apple pie* (must do)
 
 * Walk south along Prinsengracht into Jordaan edge  ()
   (easy canal-side walking, no navigation complexity)
