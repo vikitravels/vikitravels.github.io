@@ -83,7 +83,7 @@ BRUXELLES-MIDI         🚆    AMSTERDAM C.
 > Buy 1 group day ticket GVB app + 1 child day (works for 24 hour)
 {: .prompt-tip }
 
-* Buss 22 to hotel (15 mins)
+* Bus 22 (direction Sloterdijk) → Kabelweg → walk to hotel (15 mins)
 
 * Rest at hotel 
 
@@ -126,7 +126,7 @@ BRUXELLES-MIDI         🚆    AMSTERDAM C.
 * Tram/Walk from De Pijp → Museumplein  
   Rijksmuseum exterior stop (photo through tunnel + front façade + gardens)
 
-* Canal cruise from Westermarkt (Prinsengracht area)
+* Canal cruise from Westermarkt (Prinsengracht area) / Anne Frank House area (book sunset departure if available)
 
 * Dinner at Ram's Roti
 
