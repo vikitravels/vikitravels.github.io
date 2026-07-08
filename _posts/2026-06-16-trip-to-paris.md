@@ -141,7 +141,7 @@ BRUXELLES-MIDI         🚆    AMSTERDAM C.
 
 ```
 Amsterdam Zuid          🚆      Antwerpen Centraal 
-07:34 AM                        09:16 AM
+10:44 AM                        13:16 AM
 (IC/Eurocity)
 ```
 
@@ -150,7 +150,7 @@ Amsterdam Zuid          🚆      Antwerpen Centraal
 * Walk to Stadsfeestzaal (shopping mall) → Cathedral of our lady → Grote Mark → Fritkot Max (*2.1 Kms*)   
   [google maps walking route](https://maps.app.goo.gl/SFF3FboiTV3nB1EM6)
   
-* Direct Train to Brussels Airport afternoon (45 min - 1 hour)
+* Direct Train to Brussels Airport around 5 (45 min)
 
 ```
 Brussels Airport (BRU)   ✈   Oslo Gardermoen (OSL)
